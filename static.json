@@ -4,17 +4,17 @@
     "/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/html; charset=UTF-8",
-      "X-Author": "id71293382"
+      "X-Author": "artem_wr"
     },
     "/sample/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-      "X-Author": "id71293382"
+      "X-Author": "artem_wr"
     },
     "/login/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-      "X-Author": "id71293382"
+      "X-Author": "artem_wr"
     }    
   }    
 }
